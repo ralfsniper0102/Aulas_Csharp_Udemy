@@ -1,0 +1,129 @@
+using System;
+using System.Globalization;
+
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+             
+
+            Console.Write("Entre com o numero da conta: ");
+            int numero; 
+            numero = int.Parse(Console.ReadLine());
+
+            Console.Write("Entre com o nome do titular da conta: ");
+            string nome; 
+            nome = Console.ReadLine();
+
+            Conta x = new Conta(numero, nome);
+
+            Console.Write("Haverá deposito inicial? (s/n) ");
+            char sn; 
+            sn = char.Parse(Console.ReadLine());
+            if (sn == 's')
+            {
+                Console.Write("Entre com o valor de depósito inicial: ");
+                double valor; 
+                valor = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                x.Depositar(valor);
+                valor = x.GetSaldo();
+                         
+            }
+
+            Console.WriteLine("");
+            Console.WriteLine(x.DadosDaConta1(sn));
+            sn = 'n';
+            Console.WriteLine(x.DadosDaConta2());
+            Console.WriteLine("");
+
+            Console.Write("Entre com um valor para depósito: ");
+            x.Depositar(Double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture));
+            Console.WriteLine(x.DadosDaConta1(sn));
+            Console.WriteLine(x.DadosDaConta2());
+            Console.WriteLine("");
+
+            Console.Write("Entre com um valor para saque: ");
+            x.Saque(double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture));
+            Console.WriteLine(x.DadosDaConta1(sn));
+            Console.WriteLine(x.DadosDaConta2());
+
+        }
+    }
+}
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Globalization;
+
+namespace ConsoleApp2
+{
+    class Conta
+    {
+        private int _numeroConta;
+        private string _nome;
+        private double _saldo;
+
+        private static double _taxa = 5.00;
+
+        public Conta(int numeroconta, string nome)
+        {
+            _numeroConta = numeroconta;
+            _nome = nome;
+        }
+
+        public void Depositar(double valor)
+        {
+            _saldo = valor + _saldo;
+        }
+
+        public double GetSaldo()
+        {
+            return _saldo;
+        }
+
+        public void Saque(double valor)
+        {
+            _saldo = (_saldo - valor - _taxa);
+        }
+
+        public string DadosDaConta1(char sn)
+        {
+            string retorno;
+            if(sn == 's')
+            {
+                retorno = "Dados da Conta: ";
+            }
+            else
+            {
+                retorno = "Dados da Conta Atualizada";
+            }
+            return retorno;
+        }
+
+        public string DadosDaConta2()
+        {
+            return ("Conta "
+                + _numeroConta.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Titular : "
+                + _nome
+                + ", Saldo: $ "
+                + _saldo.ToString("F2", CultureInfo.InvariantCulture)); 
+        }
+   
+    }
+
+}
+
+   
+
+
+
+
+
