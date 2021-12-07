@@ -11,7 +11,7 @@ namespace DepositoESaque
         public int Conta { get; private set; }
         public string Nome { get; private set; }
 
-        public double Saldo;
+        private double Saldo;
 
         public Usuario(int conta, string nome)
         {
@@ -21,8 +21,15 @@ namespace DepositoESaque
 
         }
 
+        public double GetSaldo()
+        {
+            return Saldo;
+        }
+
+        public void Depositar(double deposito)
+        {
+            Saldo = Saldo + deposito;
+        }
+
     }
 }
-
-
-
