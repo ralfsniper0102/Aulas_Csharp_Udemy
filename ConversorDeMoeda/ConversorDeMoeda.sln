@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDeMoeda", "ConversorDeMoeda\ConversorDeMoeda.csproj", "{B953A9C7-E6E3-452C-BCE6-2DDE7A2EE8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B953A9C7-E6E3-452C-BCE6-2DDE7A2EE8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B953A9C7-E6E3-452C-BCE6-2DDE7A2EE8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B953A9C7-E6E3-452C-BCE6-2DDE7A2EE8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B953A9C7-E6E3-452C-BCE6-2DDE7A2EE8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E870900E-4D71-4435-A556-E1DF7384C7D8}
+	EndGlobalSection
+EndGlobal
