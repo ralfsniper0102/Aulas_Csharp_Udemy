@@ -8,10 +8,10 @@ namespace ConversorDeMoeda
 {
     class CalculadoraDolar
     {
-        static double IOF = 0.6;
-        static double CalcularCompraDolar(double cotacao, double dolarAComprar)
+        public static double IOF = 0.6;
+        public static double CalcularCompraDolar(double cotacao, double dolarAComprar)
         {
-
+            return ((cotacao + (cotacao*IOF)) * dolarAComprar);
         }
     }
 }

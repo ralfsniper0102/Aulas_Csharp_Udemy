@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.exe
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.deps.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ref\ConversorDeMoeda.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net5.0\ConversorDeMoeda.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ref\ConversorDeMoeda.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net5.0\ConversorDeMoeda.genruntimeconfig.cache

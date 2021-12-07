@@ -9,10 +9,13 @@ namespace ConversorDeMoeda
             Console.Write("Qual é a cotação do Dolar?: ");
             double cotacao = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             
-            Console.Write("Quantos dolares você irá comprar?");
+            Console.Write("Quantos dolares você irá comprar? ");
             double dolarComprar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            Console.Write("Valor a ser pago em reais = ");
+            Console.WriteLine(CalculadoraDolar.CalcularCompraDolar(cotacao, dolarComprar).ToString("F2",CultureInfo.InvariantCulture)); 
 
+           
         }
     }
 }
