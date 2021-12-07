@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositoESaque", "DepositoESaque\DepositoESaque.csproj", "{9B5A13A7-3499-4801-9AA4-2BCDE8824BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5A13A7-3499-4801-9AA4-2BCDE8824BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5A13A7-3499-4801-9AA4-2BCDE8824BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5A13A7-3499-4801-9AA4-2BCDE8824BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5A13A7-3499-4801-9AA4-2BCDE8824BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F06C5AF-81E9-47C7-97BA-6A2B05BC4A7B}
+	EndGlobalSection
+EndGlobal
