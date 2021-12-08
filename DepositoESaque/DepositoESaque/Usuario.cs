@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,8 @@ namespace DepositoESaque
         public string Nome { get; private set; }
 
         private double Saldo;
+
+        static double taxa = 5.00;
 
         public Usuario(int conta, string nome)
         {
@@ -30,6 +33,32 @@ namespace DepositoESaque
         {
             Saldo = Saldo + deposito;
         }
+
+        public void Saque(double saque)
+        {
+            if ((saque + taxa) > Saldo)
+            {
+                Console.WriteLine("Saldo Insuficiente");
+                
+            }
+            else
+            {
+                Saldo = (Saldo - (saque + taxa));
+            }
+        }
+
+        public override string ToString()
+        {
+            return "Conta "
+                + Conta 
+                + ", Titular: "
+                + Nome 
+                + ", Saldo: $ "
+                + Saldo.ToString("F2",CultureInfo.InvariantCulture)
+                ;
+        }
+
+
 
     }
 }

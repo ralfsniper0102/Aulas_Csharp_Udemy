@@ -1,0 +1,16 @@
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.exe
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.deps.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.runtimeconfig.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.runtimeconfig.dev.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\ref\DepositoESaque.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\bin\Debug\net5.0\DepositoESaque.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.csprojAssemblyReference.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.AssemblyInfoInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.AssemblyInfo.cs
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.csproj.CoreCompileInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\ref\DepositoESaque.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\DepositoESaque\DepositoESaque\obj\Debug\net5.0\DepositoESaque.genruntimeconfig.cache

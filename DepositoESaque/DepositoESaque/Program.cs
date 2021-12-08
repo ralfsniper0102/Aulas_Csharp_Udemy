@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace DepositoESaque
 {
@@ -14,17 +15,44 @@ namespace DepositoESaque
 
             Usuario x = new Usuario(n_conta, nome);
 
-            Console.Write("Haverá depósito inicial? (s/n) ?");
+            Console.Write("Haverá depósito inicial? (s/n)? ");
             char simNao = char.Parse(Console.ReadLine());
 
-            if (simNao == 's' || simNao == 'S')
+            double deposito;
+            
+            if (Char.ToLower(simNao) == 's')
             {
                 Console.Write("Entre com o valor de Depósito inicial: ");
-                double deposito = double.Parse(Console.ReadLine());
-                x.Depositar(double.Parse(Console.ReadLine()));
-
-
+                deposito = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                x.Depositar(deposito);
             }
+
+            Console.WriteLine("");
+            Console.WriteLine("Dados da Conta: ");
+            Console.WriteLine(x);
+
+            Console.Write("Entre com um valor para depósito: ");
+            deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.Depositar(deposito);
+            Console.WriteLine("");
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(x);
+
+            Console.Write("Entre com um valor para saque: ");
+            double saque = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            x.Saque(saque);
+            Console.WriteLine("");
+
+
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(x);
+
+
+
+
+
         }
     }
 }
