@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaProdutos_Vetor", "MediaProdutos_Vetor\MediaProdutos_Vetor.csproj", "{417B0A13-EB5B-4C00-9204-9DF14EBB3FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417B0A13-EB5B-4C00-9204-9DF14EBB3FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417B0A13-EB5B-4C00-9204-9DF14EBB3FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417B0A13-EB5B-4C00-9204-9DF14EBB3FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417B0A13-EB5B-4C00-9204-9DF14EBB3FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2320FA97-EB46-48FC-BD21-8758F9D1A104}
+	EndGlobalSection
+EndGlobal

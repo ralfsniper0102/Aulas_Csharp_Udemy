@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MediaProdutos_Vetor/1.0.0": {
+        "runtime": {
+          "MediaProdutos_Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaProdutos_Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

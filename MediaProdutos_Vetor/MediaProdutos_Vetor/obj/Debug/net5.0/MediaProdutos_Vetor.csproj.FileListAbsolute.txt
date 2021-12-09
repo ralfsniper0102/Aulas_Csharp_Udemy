@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.exe
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.deps.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\ref\MediaProdutos_Vetor.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\bin\Debug\net5.0\MediaProdutos_Vetor.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\ref\MediaProdutos_Vetor.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\MediaProdutos_Vetor\MediaProdutos_Vetor\obj\Debug\net5.0\MediaProdutos_Vetor.genruntimeconfig.cache
