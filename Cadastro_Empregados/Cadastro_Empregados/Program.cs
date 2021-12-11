@@ -10,7 +10,7 @@ namespace Cadastro_Empregados
         {
             List<Empregado> empregados = new List<Empregado>();
             int id = 0;
-            Console.WriteLine("Quantos empregados você irá registrar? ");
+            Console.Write("Quantos empregados você irá registrar? ");
             int quantidade = int.Parse(Console.ReadLine());
 
             for (int i = 0; i<quantidade; i++ )
@@ -24,9 +24,10 @@ namespace Cadastro_Empregados
 
                     Empregado resultado = empregados.Find(x => x.Id == id);
                     
-                    if(resultado.Id != 0)
+                    if(resultado != null)
                     {
                         Console.WriteLine("id cadastrado anteriormente");
+                        Console.WriteLine("");
                         id = 0;
                     }
                                       
@@ -38,33 +39,36 @@ namespace Cadastro_Empregados
                 double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 empregados.Add(new Empregado(id, nome, salario));
+                Console.WriteLine("");
             }
 
-            Console.WriteLine("insira o id do funcionario que voce deseja aumentar o salario: ");
-            id = int.Parse(Console.ReadLine());
+            Console.Write("insira o id do funcionario que voce deseja aumentar o salario: ");
+            
 
             do
             {
+                id = int.Parse(Console.ReadLine());
                 Empregado resultado = empregados.Find(x => x.Id == id);
-                if (resultado.Id != id )
+                if (resultado == null || resultado.Id != id )
                 {
                     Console.WriteLine("usuário não existente");
                     id = 0;
                 }
                 else
                 {
-                    Console.WriteLine("Entre com a porcentagem a ser adicionada: ");
+                    Console.Write("Entre com a porcentagem a ser adicionada: ");
                     double porcentagem = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
                     int posicao = empregados.FindIndex(x => x.Id == id);
                     empregados[posicao].Aumento(porcentagem);
                 }
 
             } while (id == 0);
+            Console.WriteLine("");
 
 
             foreach (Empregado obj in empregados)
             {
-                Console.WriteLine(obj.Id + ", " + obj.Nome + ", " + obj.Salario);
+                Console.WriteLine(obj.Id + ", " + obj.Nome + ", " + obj.Salario.ToString("F2",CultureInfo.InvariantCulture));
             }
 
         }
