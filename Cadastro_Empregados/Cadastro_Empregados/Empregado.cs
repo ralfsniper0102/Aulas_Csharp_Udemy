@@ -18,5 +18,10 @@ namespace Cadastro_Empregados
             Nome = nome;
             Salario = salario;
         }
+
+        public void Aumento(double porcentagem)
+        {
+            Salario = (Salario + (Salario * porcentagem));
+        }
     }
 }
