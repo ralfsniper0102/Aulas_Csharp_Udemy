@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Foreach
-build_property.ProjectDir = C:\Users\Rafael\source\repos\Foreach\Foreach\
+build_property.ProjectDir = C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Foreach\Foreach\

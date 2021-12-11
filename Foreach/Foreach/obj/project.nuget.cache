@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MijNE2ioTRxSDVUp//3ajizRCgU5plY9srif7bNjZGPDXlBFQelH+h3cQiHYitGRm+Wz8iIjVdKUja9nqNoYg==",
+  "dgSpecHash": "LtPzOxhYDd/P9j3EpoTD97Jy33bbSCnsuUfE+PrKvE4rHgcCrJZh5q0BW0L3xpav2mphpJagvbcYVIsGi2kf8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\Foreach\\Foreach\\Foreach.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Documents\\GitHub\\Aulas_Csharp_Udemy\\Foreach\\Foreach\\Foreach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
