@@ -1,0 +1,16 @@
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.exe
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.deps.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\ref\Listas.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\bin\Debug\net5.0\Listas.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.csprojAssemblyReference.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\ref\Listas.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\Listas\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache
