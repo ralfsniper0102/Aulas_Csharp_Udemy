@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.exe
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.deps.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\ref\Matrices.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\bin\Debug\net5.0\Matrices.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\ref\Matrices.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.genruntimeconfig.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Matrices\Matrices\obj\Debug\net5.0\Matrices.csproj.AssemblyReference.cache
