@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.exe
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.deps.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\ref\Functions_String.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\bin\Debug\net5.0\Functions_String.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\ref\Functions_String.dll
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.pdb
+C:\Users\Rafael\Documents\GitHub\Aulas_Csharp_Udemy\Functions_String\Functions_String\obj\Debug\net5.0\Functions_String.genruntimeconfig.cache
