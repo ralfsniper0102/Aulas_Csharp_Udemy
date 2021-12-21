@@ -1,0 +1,16 @@
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.exe
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.deps.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.runtimeconfig.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.runtimeconfig.dev.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\ref\OperationsTimeSpan.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\bin\Debug\net5.0\OperationsTimeSpan.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.csprojAssemblyReference.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.AssemblyInfoInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.AssemblyInfo.cs
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\ref\OperationsTimeSpan.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\OperationsTimeSpan\OperationsTimeSpan\obj\Debug\net5.0\OperationsTimeSpan.genruntimeconfig.cache
