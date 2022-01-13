@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\ref\WorkerContractProgram.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\bin\Debug\net5.0\WorkerContractProgram.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\ref\WorkerContractProgram.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkerContractProgram\WorkerContractProgram\WorkerContractProgram\obj\Debug\net5.0\WorkerContractProgram.genruntimeconfig.cache
