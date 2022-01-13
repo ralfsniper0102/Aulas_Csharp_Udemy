@@ -23,6 +23,14 @@ namespace WorkerContractProgram
             Console.Write("Quantos contratos para este trabalhador: ");
             int quantityContract = int.Parse(Console.ReadLine());
 
+            for ( int i = 0; i<quantityContract; i++)
+            {
+                Console.WriteLine("Contrato " + (i+1) + "Entre com a data: ");
+                Console.Write("Data (DD/MM/YYYY): ");
+                
+
+            }
+
         }
     }
 }

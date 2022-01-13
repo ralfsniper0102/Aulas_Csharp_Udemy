@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TF5phCKYnN1iDxtvoqAzxtjFw3pAmRkLNJOCoV4yi7sV7AFkUJ5ihhCAh7vRlsrFZzofsEKQWmyUHFAjtl5mYg==",
+  "dgSpecHash": "nkTDtkG4IgydHUm55AlUnVBR0BI6NS9ToBLHRaoFiM2XNB8iMzxcv6rLhcF1SD9jW5bUmsZemD8E/n4ToAj8xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\OneDrive\\Documentos\\GitHub\\Aulas_Csharp_Udemy\\WorkerContractProgram\\WorkerContractProgram\\WorkerContractProgram\\WorkerContractProgram.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MICRO00\\Documents\\GitHub\\Aulas_Csharp_Udemy\\WorkerContractProgram\\WorkerContractProgram\\WorkerContractProgram\\WorkerContractProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
