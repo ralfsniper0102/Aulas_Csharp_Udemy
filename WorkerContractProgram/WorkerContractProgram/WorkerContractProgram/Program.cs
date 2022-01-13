@@ -27,7 +27,7 @@ namespace WorkerContractProgram
             {
                 Console.WriteLine("Contrato " + (i+1) + "Entre com a data: ");
                 Console.Write("Data (DD/MM/YYYY): ");
-                
+                 
 
             }
 
