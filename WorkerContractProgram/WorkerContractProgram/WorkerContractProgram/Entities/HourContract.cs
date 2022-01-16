@@ -1,20 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WorkerContractProgram.Entities
 {
     internal class HourContract
     {
-        public DateTime date;
-        public double valuePerHour;
-        public int hours;
+        public DateTime Date { get; set; }
+        public double ValuePerHour { get; set; }
+        public int Hours { get; set; }
 
-        public double totalValue()
+        public HourContract()
         {
-            return 0.0;
+
+        }
+
+        public HourContract(DateTime date, double valuePerHour, int hours)
+        {
+            Date = date;
+            ValuePerHour = valuePerHour;
+            Hours = hours;
+        }
+
+        public double TotalValue()
+        {
+            return (ValuePerHour*Hours);
         }
     }
 }
