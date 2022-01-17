@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\ref\WorkProgram_test1.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\ref\WorkProgram_test1.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\obj\Debug\net5.0\WorkProgram_test1.genruntimeconfig.cache

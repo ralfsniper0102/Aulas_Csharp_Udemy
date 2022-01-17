@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WorkProgram_test1</id>
+    <version>1.0.0</version>
+    <authors>WorkProgram_test1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.runtimeconfig.json" target="lib\net5.0\WorkProgram_test1.runtimeconfig.json" />
+    <file src="C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\WorkProgram_test1\WorkProgram_test1\WorkProgram_test1\bin\Debug\net5.0\WorkProgram_test1.dll" target="lib\net5.0\WorkProgram_test1.dll" />
+  </files>
+</package>
