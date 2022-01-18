@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ref\ProgramStringBuilder.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\bin\Debug\net5.0\ProgramStringBuilder.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ref\ProgramStringBuilder.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramStringBuilder\ProgramStringBuilder\ProgramStringBuilder\obj\Debug\net5.0\ProgramStringBuilder.genruntimeconfig.cache
