@@ -26,7 +26,7 @@ namespace WorkProgram_test1.Entities
 
         public double TotalValue()
         {
-            return ValuePerHour * Hours;
+            return (ValuePerHour * Hours);
         }
     }
 }

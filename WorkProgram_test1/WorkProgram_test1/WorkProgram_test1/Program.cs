@@ -38,7 +38,7 @@ namespace WorkProgram_test1
                 DateTime dateContract = DateTime.Parse(Console.ReadLine());
 
                 Console.Write("Valor por Hora: ");
-                double valueHora = double.Parse(Console.ReadLine());
+                double valueHora = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
                 Console.Write("Duração (horas): ");
                 int hours = int.Parse(Console.ReadLine());
