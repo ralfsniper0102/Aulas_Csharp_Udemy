@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProgramRequest.Entities.Enum
 {
-    enum OrdemStatus
+    enum OrderStatus
     {
         Pagamento_Pendente = 0,
         Processando = 1,

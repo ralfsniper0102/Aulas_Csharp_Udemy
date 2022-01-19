@@ -10,14 +10,14 @@ namespace ProgramRequest.Entities
     class Order
     {
         public DateTime Moment { get; set; }
-        public OrdemStatus Status { get; set; }
+        public OrderStatus Status { get; set; }
         public Client Client { get; set; }
         public List<OrderItem> orderItems { get; set; } = new List<OrderItem>();
         public Order()
         {
 
         }
-        public Order(DateTime moment, OrdemStatus status, Client client)
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
@@ -41,6 +41,15 @@ namespace ProgramRequest.Entities
                 sum = item.SubTotal();
             }
             return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+
+
+            return sb.ToString();
         }
     }
 
