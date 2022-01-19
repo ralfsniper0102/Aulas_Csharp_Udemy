@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gLdE6bIEqLVtHu2/Yz5UGREg0B/0Kgg3/hn7kCkEGIcS3kMrj4h8V+qTf6+6wrjCWAEo8YnIh8n+tsnujEdkdw==",
+  "dgSpecHash": "QPCbtT2fQVJ8KPCaKC3omPmp5WQ9bK6mJhF2+M2jZ1nm2dNYiwtT5LlLcneYr38zM6zJ+Q30HZDzxexo/syA8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MICRO000\\Documents\\GitHub\\Aulas_Csharp_Udemy\\ProgramRequest\\ProgramRequest\\ProgramRequest\\ProgramRequest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MICRO00\\Documents\\GitHub\\Aulas_Csharp_Udemy\\ProgramRequest\\ProgramRequest\\ProgramRequest\\ProgramRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MICRO00\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
