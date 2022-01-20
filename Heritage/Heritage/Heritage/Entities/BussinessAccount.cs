@@ -11,14 +11,18 @@ namespace Heritage.Entities
         public double LoanLimit { get; set; }
 
         public BussinessAccount(double loanLimit, int number, string holder, double balance)
-            : base(number, holder, balance)    
+            : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
         }
 
         public void Loan(double amount)
         {
-            Balance = amount;
+            if (LoanLimit >= amount)
+            {
+                Balance = Balance + amount;
+            }
+
         }
     }
 }
