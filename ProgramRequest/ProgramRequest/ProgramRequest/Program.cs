@@ -13,12 +13,13 @@ namespace ProgramRequest
             string name = Console.ReadLine();
             Console.Write("Email: ");
             string email = Console.ReadLine();
-            Console.Write("Data de Nascimento (DD/MM/AAAA):");
+            Console.Write("Data de Nascimento (DD/MM/AAAA): ");
             DateTime brithDate = DateTime.Parse(Console.ReadLine());
 
             Client client = new Client(name, email, brithDate);
 
-            Console.WriteLine("Entre com os dados dos pedidos ():");
+            Console.WriteLine("Entre com os dados dos pedidos: ");
+            Console.Write("Estatos: ");
             string status = Console.ReadLine();
 
             Console.WriteLine("Quantos itens estarão nesse pedido? ");

@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ref\ProgramRequest.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\bin\Debug\net5.0\ProgramRequest.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ref\ProgramRequest.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramRequest\ProgramRequest\ProgramRequest\obj\Debug\net5.0\ProgramRequest.genruntimeconfig.cache
