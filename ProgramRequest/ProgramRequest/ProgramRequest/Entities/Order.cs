@@ -40,7 +40,7 @@ namespace ProgramRequest.Entities
             double sum = 0.0;
             foreach (OrderItem item in orderItems)
             {
-                sum = item.SubTotal();
+                sum = sum + item.SubTotal();
             }
             return sum;
         }
@@ -50,12 +50,12 @@ namespace ProgramRequest.Entities
             StringBuilder sb = new StringBuilder();
             sb.Append("Momento do Pedido: ");
             sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.Append("Estatos do pedido:");
+            sb.Append("Estatos do pedido: ");
             sb.AppendLine(Status.ToString());
             sb.Append("Cliente: ");
             sb.AppendLine(Client.Name
                 + "("
-                + Client.BirthDate
+                + Client.BirthDate.ToString("dd/MM/yyyy")
                 + ")"
                 + " - "
                 + Client.Email
@@ -69,14 +69,14 @@ namespace ProgramRequest.Entities
                     + item.Product.Price.ToString("F2", CultureInfo.InvariantCulture)
                     + ", Quantidade: "
                     + item.Quantity
-                    + ", Subtotal:  "
-                    + item.SubTotal()
-                    + "Preço Total: "
-                    + Total().ToString("F2",CultureInfo.InvariantCulture)
-                    ) ;
+                    + ", Subtotal:  R$"
+                    + item.SubTotal().ToString("F2",CultureInfo.InvariantCulture)
+                      );
 
             }
-            
+            sb.AppendLine("Preço Total: "
+                    + Total().ToString("F2", CultureInfo.InvariantCulture));
+
 
 
 

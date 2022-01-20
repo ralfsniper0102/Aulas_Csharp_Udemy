@@ -1,6 +1,7 @@
 ﻿using ProgramRequest.Entities;
 using ProgramRequest.Entities.Enum;
 using System;
+using System.Globalization;
 
 namespace ProgramRequest
 {
@@ -19,10 +20,10 @@ namespace ProgramRequest
             Client client = new Client(name, email, brithDate);
 
             Console.WriteLine("Entre com os dados dos pedidos: ");
-            Console.Write("Estatos: ");
+            Console.Write("Estatos -  Pagamento Pendente / Processando / Enviado / Entregue: ");
             string status = Console.ReadLine();
 
-            Console.WriteLine("Quantos itens estarão nesse pedido? ");
+            Console.Write("Quantos itens estarão nesse pedido? ");
             int itens = int.Parse(Console.ReadLine());
 
             Order order = new Order(DateTime.Now, Enum.Parse<OrderStatus>(status), client);
@@ -33,17 +34,18 @@ namespace ProgramRequest
                 Console.Write("Nome do produto: ");
                 string nameProduct = Console.ReadLine();
                 Console.Write("Preço do produto: ");
-                double priceProduct = double.Parse(Console.ReadLine());
-                Console.WriteLine("Quantidade: ");
+                double priceProduct = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                Console.Write("Quantidade: ");
                 int quantityProduct = int.Parse(Console.ReadLine());
 
-                Product product = new Product(name, priceProduct);
+                Product product = new Product(nameProduct, priceProduct);
 
                 OrderItem orderItem = new OrderItem(quantityProduct, priceProduct, product);
 
                 order.AddItem(orderItem);
 
             }
+            Console.WriteLine("");
             Console.WriteLine("Resumo do Pedido");
 
             Console.WriteLine(order);
