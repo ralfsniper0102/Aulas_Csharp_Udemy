@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\ref\Heritage.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\bin\Debug\net5.0\Heritage.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\ref\Heritage.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\Heritage\Heritage\Heritage\obj\Debug\net5.0\Heritage.genruntimeconfig.cache

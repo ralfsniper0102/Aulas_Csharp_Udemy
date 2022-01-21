@@ -10,6 +10,8 @@ namespace Heritage.Entities
     {
         public double LoanLimit { get; set; }
 
+        
+
         public BussinessAccount(double loanLimit, int number, string holder, double balance)
             : base(number, holder, balance)
         {

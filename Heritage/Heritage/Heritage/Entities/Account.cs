@@ -10,7 +10,7 @@ namespace Heritage.Entities
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }
-        public double Balance { get; private set; }
+        public double Balance { get; protected set; }
 
         public Account()
         {
