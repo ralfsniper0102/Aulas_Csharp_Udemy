@@ -22,9 +22,14 @@ namespace UpcastingDowncasting
             BusinessAccount acc4 = (BusinessAccount)acc2;
             acc4.Loan(100.0); 
 
-            if (acc3 is BusinessAccount) //// teste para 
+            if (acc3 is BusinessAccount) //// teste 
             {
                 BusinessAccount acc5 = (BusinessAccount)acc3;
+            }
+
+            if (acc3 is SavingsAccount)
+            {
+
             }
 
             Console.WriteLine("Hello World!");
