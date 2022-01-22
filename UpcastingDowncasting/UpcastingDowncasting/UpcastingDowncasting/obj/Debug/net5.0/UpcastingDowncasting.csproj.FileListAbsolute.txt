@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\ref\UpcastingDowncasting.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net5.0\UpcastingDowncasting.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\ref\UpcastingDowncasting.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net5.0\UpcastingDowncasting.genruntimeconfig.cache
