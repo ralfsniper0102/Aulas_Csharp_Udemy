@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ref\ClassesMethodsSealed.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\bin\Debug\net5.0\ClassesMethodsSealed.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ref\ClassesMethodsSealed.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ClassesMethodsSealed\ClassesMethodsSealed\ClassesMethodsSealed\obj\Debug\net5.0\ClassesMethodsSealed.genruntimeconfig.cache
