@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache

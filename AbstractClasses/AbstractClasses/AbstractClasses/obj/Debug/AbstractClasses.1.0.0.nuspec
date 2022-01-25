@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AbstractClasses</id>
+    <version>1.0.0</version>
+    <authors>AbstractClasses</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json" target="lib\net5.0\AbstractClasses.runtimeconfig.json" />
+    <file src="C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll" target="lib\net5.0\AbstractClasses.dll" />
+  </files>
+</package>
