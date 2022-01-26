@@ -18,7 +18,7 @@ namespace AbstractMethods.Entitites
         }
 
         public Rectangle(double width, double height, Color color)
-            : base (color)
+            : base(color)
         {
             Width = width;
             Height = height;
@@ -26,7 +26,7 @@ namespace AbstractMethods.Entitites
 
         public override double Area()
         {
-            return 0.0;
+            return (Width * Height);
         }
     }
 }

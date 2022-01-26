@@ -2,6 +2,7 @@
 using AbstractMethods.Entitites.Enum;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace AbstractMethods
 {
@@ -23,21 +24,23 @@ namespace AbstractMethods
                 switch (typeForm)
                 {
                     case 'r':
-                        Console.Write("Cor (Preto/Azul/Vermelho)");
+                        Console.Write("Cor (Preto/Azul/Vermelho): ");
                         color = Enum.Parse<Color>(Console.ReadLine());
-                        Console.WriteLine("Largura: ");
-                        double width = double.Parse(Console.ReadLine());
+                        Console.Write("Largura: ");
+                        double width = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
                         Console.Write("Altura: ");
-                        double height = double.Parse(Console.ReadLine());
+                        double height = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                         shapes.Add(new Rectangle(width, height, color));
                         break;
 
                     case 'c':
-                        Console.Write("Cor (Preto/Azul/Vermelho)");
+                        Console.Write("Cor (Preto/Azul/Vermelho): ");
                         color = Enum.Parse<Color>(Console.ReadLine());
+                        Console.Write("Raio: ");
+                        double radius = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-
+                        shapes.Add(new Circle(radius, color));
                         break;
 
                     default:
@@ -49,6 +52,13 @@ namespace AbstractMethods
                 
                     
                
+            }
+
+            Console.WriteLine("Área das Formas: ");
+
+            foreach(Shape shape in shapes)
+            {
+                Console.WriteLine(shape.Area().ToString("F2",CultureInfo.InvariantCulture)) ;
             }
         }
     }

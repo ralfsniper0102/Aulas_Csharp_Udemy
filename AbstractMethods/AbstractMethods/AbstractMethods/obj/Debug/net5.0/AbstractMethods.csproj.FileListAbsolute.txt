@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\ref\AbstractMethods.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\bin\Debug\net5.0\AbstractMethods.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\ref\AbstractMethods.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\AbstractMethods\AbstractMethods\AbstractMethods\obj\Debug\net5.0\AbstractMethods.genruntimeconfig.cache

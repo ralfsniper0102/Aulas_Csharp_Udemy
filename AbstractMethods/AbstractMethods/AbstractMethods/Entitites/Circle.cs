@@ -24,7 +24,7 @@ namespace AbstractMethods.Entitites
 
         public override double Area()
         {
-            return 0;
+            return (3.14 * (Radius * Radius));
         }
     }
 }
