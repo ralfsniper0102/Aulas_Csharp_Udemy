@@ -15,7 +15,7 @@ namespace ProgramTaxpayer.Entities
 
         public Individual()
         {
-
+            
         }
 
         public Individual(string name, double anualIncome, double healthExpenditures)
@@ -26,7 +26,27 @@ namespace ProgramTaxpayer.Entities
 
         public override double TaxesPaid()
         {
-            return 0.0;
+            double taxes = 0.0;
+            if(AnualIncome > 20000)
+            {
+                taxes = AnualIncome * 0.25;
+
+                if(HealthExpenditures > 0.0)
+                {
+                    taxes = taxes - (HealthExpenditures / 2);
+                }
+                
+            }
+            else
+            {
+                taxes = AnualIncome * 0.15;
+                if (HealthExpenditures > 0.0)
+                {
+                    taxes = taxes - (HealthExpenditures / 2);
+                }
+            }
+
+            return taxes;
         }
     }
 }

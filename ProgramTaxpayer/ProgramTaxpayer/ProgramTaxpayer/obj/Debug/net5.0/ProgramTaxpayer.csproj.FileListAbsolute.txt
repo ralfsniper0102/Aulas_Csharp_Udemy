@@ -1,0 +1,16 @@
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.exe
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.deps.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.runtimeconfig.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.runtimeconfig.dev.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ref\ProgramTaxpayer.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\bin\Debug\net5.0\ProgramTaxpayer.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.csproj.AssemblyReference.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.AssemblyInfoInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.AssemblyInfo.cs
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.csproj.CoreCompileInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ref\ProgramTaxpayer.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\ProgramTaxpayer\ProgramTaxpayer\ProgramTaxpayer\obj\Debug\net5.0\ProgramTaxpayer.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace ProgramTaxpayer.Entities
 
         }
 
-        public Company(int numberEmployees, string name, double anualIncome)
+        public Company(string name, double anualIncome, int numberEmployees)
             : base(name, anualIncome)
         {
             NumberEmployees = numberEmployees;
@@ -24,7 +24,18 @@ namespace ProgramTaxpayer.Entities
 
         public override double TaxesPaid()
         {
-            return 0.0;
+            double taxes = 0.0;
+            if (NumberEmployees > 10)
+            {
+                taxes = AnualIncome * 0.14;
+            }
+            else
+            {
+                taxes = AnualIncome * 0.16;
+            }
+            
+
+            return taxes;
         }
     }
 }
