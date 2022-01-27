@@ -1,0 +1,16 @@
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.exe
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.deps.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.runtimeconfig.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.runtimeconfig.dev.json
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\ref\TryCatchProgram.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\bin\Debug\net5.0\TryCatchProgram.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.csproj.AssemblyReference.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.AssemblyInfoInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.AssemblyInfo.cs
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.csproj.CoreCompileInputs.cache
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\ref\TryCatchProgram.dll
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.pdb
+C:\Users\MICRO00\Documents\GitHub\Aulas_Csharp_Udemy\TryCatchProgram\TryCatchProgram\TryCatchProgram\obj\Debug\net5.0\TryCatchProgram.genruntimeconfig.cache
