@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ref\ProgramDepositWithdraw.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\bin\Debug\net5.0\ProgramDepositWithdraw.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ref\ProgramDepositWithdraw.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramDepositWithdraw\ProgramDepositWithdraw\ProgramDepositWithdraw\obj\Debug\net5.0\ProgramDepositWithdraw.genruntimeconfig.cache
