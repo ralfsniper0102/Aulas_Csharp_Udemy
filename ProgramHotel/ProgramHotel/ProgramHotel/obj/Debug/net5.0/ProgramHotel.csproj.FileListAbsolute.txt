@@ -1,0 +1,16 @@
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.exe
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.deps.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.runtimeconfig.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.runtimeconfig.dev.json
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ref\ProgramHotel.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\bin\Debug\net5.0\ProgramHotel.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.csproj.AssemblyReference.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.AssemblyInfoInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.AssemblyInfo.cs
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ref\ProgramHotel.dll
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.pdb
+C:\Users\Rafael\OneDrive\Documentos\GitHub\Aulas_Csharp_Udemy\ProgramHotel\ProgramHotel\ProgramHotel\obj\Debug\net5.0\ProgramHotel.genruntimeconfig.cache
