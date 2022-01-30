@@ -22,6 +22,7 @@ namespace FileStreamStreamReader
                 }
                 
 
+
             }
             catch (IOException e)
             {
