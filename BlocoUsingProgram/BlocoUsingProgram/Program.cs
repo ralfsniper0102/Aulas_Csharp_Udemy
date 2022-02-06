@@ -26,15 +26,7 @@ namespace BlocoUsingProgram
                 Console.WriteLine("Ocorreu um erro,  " + ex.Message);
             }
 
-            try
-            {
-
-            }
-            catch
-            {
-
-            }
-
+            
         }
     }
 }
