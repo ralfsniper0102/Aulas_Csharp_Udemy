@@ -9,7 +9,6 @@ namespace BlocoUsingProgram
         {
             string path = @"C:\Users\Rafael\OneDrive\Área de Trabalho\File1.txt";
 
-
             try
             {
                 using (StreamReader sr = File.OpenText(path))
