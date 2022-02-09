@@ -6,7 +6,24 @@ namespace InterfaceProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                Console.WriteLine("Entre com os dados para o aluguel: ");
+                Console.Write("Modelo do Carro: ");
+                string modelCar = Console.ReadLine();
+                Console.Write("Data de Entrada: (dd/mm/aaaa hh:mm): ");
+                DateTime dateEntry = DateTime.Parse(Console.ReadLine());
+                Console.Write("Data de Saída: (dd/mm/aaaa hh:mm): ");
+                DateTime dateExit = DateTime.Parse(Console.ReadLine());
+
+
+
+                 
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

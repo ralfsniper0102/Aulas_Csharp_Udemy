@@ -18,7 +18,11 @@ namespace InterfaceProgram.Services
          
         }
 
-        public  FindById()
+        public T FindById()
+        {
+            return T;
+        }
+        public List<T> FindAll()
         {
             return T;
         }
