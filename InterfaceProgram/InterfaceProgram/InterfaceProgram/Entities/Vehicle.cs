@@ -10,5 +10,9 @@ namespace InterfaceProgram.Entities
     {
         public string Model { get; set; }
 
+        public Vehicle(string model)
+        {
+            Model = model;
+        }
     }
 }

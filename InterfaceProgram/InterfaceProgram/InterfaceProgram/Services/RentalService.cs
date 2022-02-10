@@ -11,6 +11,7 @@ namespace InterfaceProgram.Services
         public double PricePerHour { get; set; }
         public double PricePerDay { get; set; }
 
-        public void ProcessInvoice()
+        public void ProcessInvoice() { 
+        }
     }
 }

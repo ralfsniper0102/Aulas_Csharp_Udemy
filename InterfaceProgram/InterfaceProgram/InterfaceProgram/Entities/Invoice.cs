@@ -11,6 +11,12 @@ namespace InterfaceProgram.Entities
         public double BasicPayment { get; set; }
         public double Tax { get; set; }
 
+        public Invoice(double basicPayment, double tax)
+        {
+            BasicPayment = basicPayment;
+            Tax = tax;
+        }
+
         public double TotalPayment()
         {
             return BasicPayment + Tax;
