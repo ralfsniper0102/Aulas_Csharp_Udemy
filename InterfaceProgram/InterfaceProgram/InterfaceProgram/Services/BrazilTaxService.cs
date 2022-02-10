@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace InterfaceProgram.Services
 {
-    class OrderRepository
+    class BrazilTaxService
     {
-        public List<Order> FindByDate(DataTime )
+        public double Tax(double amount)
+        {
+            return 0.0;
+        }
     }
 }

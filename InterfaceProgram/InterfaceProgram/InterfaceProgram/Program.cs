@@ -15,10 +15,11 @@ namespace InterfaceProgram
                 DateTime dateEntry = DateTime.Parse(Console.ReadLine());
                 Console.Write("Data de Saída: (dd/mm/aaaa hh:mm): ");
                 DateTime dateExit = DateTime.Parse(Console.ReadLine());
+                Console.WriteLine("Entre com valor por hora: ");
+                double valuePerHour = double.Parse(Console.ReadLine());
+                Console.WriteLine("Entre com valor por dia: ");
+                double valuePerDay = double.Parse(Console.ReadLine());
 
-
-
-                 
             }
             catch (Exception ex)
             {
